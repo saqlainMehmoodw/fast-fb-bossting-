@@ -1,0 +1,13 @@
+[
+  {
+    "Photo Name": "product1.jpg",
+    "Photo Path": "C:\\Pictures\\product1.jpg",
+    "Title": "MacBook Pro",
+    "Category": "Electronics",
+    "Condition": "Excellent",
+    "Brand": "Apple",
+    "Price": "1200",
+    "Description": "MacBook Pro in excellent condition",
+    "Location": "UK"
+  }
+]

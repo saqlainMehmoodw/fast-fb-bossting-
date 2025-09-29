@@ -1,0 +1,83 @@
+2025-09-28 15:53:29,306 - INFO - 🎯 STARTING CONTINUOUS FACEBOOK BOT
+2025-09-28 15:53:29,307 - INFO - 💡 Bot will run until manually stopped
+2025-09-28 15:53:29,308 - INFO - ⏹️  Press Ctrl+C to stop the bot
+2025-09-28 15:53:29,310 - INFO - 🚀 Starting bot session #2
+2025-09-28 15:53:38,001 - INFO - ✅ Driver initialized successfully
+2025-09-28 15:53:38,002 - INFO - 🔐 Login attempt 1/3
+2025-09-28 15:53:49,300 - INFO - ✅ Email entered
+2025-09-28 15:53:51,683 - INFO - ✅ Password entered
+2025-09-28 15:53:53,940 - INFO - ✅ Login button clicked
+2025-09-28 15:54:06,597 - WARNING - ⚠️ Login verification failed
+2025-09-28 15:54:07,175 - INFO - ⏳ Waiting 10 seconds before retry...
+2025-09-28 15:54:17,189 - INFO - 🔐 Login attempt 2/3
+2025-09-28 15:54:23,163 - INFO - ✅ Email entered
+2025-09-28 15:54:25,392 - INFO - ✅ Password entered
+2025-09-28 15:54:27,551 - INFO - ✅ Login button clicked
+2025-09-28 15:54:35,686 - WARNING - ⚠️ Login verification failed
+2025-09-28 15:54:35,843 - INFO - ⏳ Waiting 20 seconds before retry...
+2025-09-28 15:54:55,845 - INFO - 🔐 Login attempt 3/3
+2025-09-28 15:55:01,992 - INFO - ✅ Email entered
+2025-09-28 15:55:04,241 - INFO - ✅ Password entered
+2025-09-28 15:55:06,458 - INFO - ✅ Login button clicked
+2025-09-28 15:55:14,620 - WARNING - ⚠️ Login verification failed
+2025-09-28 15:55:14,767 - ERROR - ❌ All login attempts failed
+2025-09-28 15:55:18,799 - INFO - ✅ Driver closed
+2025-09-28 15:55:19,039 - ERROR - ❌ Session failed (1/3)
+2025-09-28 15:55:25,129 - INFO - 🛑 Bot stop requested
+2025-09-28 15:55:25,130 - INFO - 🎯 Continuous bot stopped
+2025-09-28 15:55:37,847 - INFO - 🎯 STARTING CONTINUOUS FACEBOOK BOT
+2025-09-28 15:55:37,848 - INFO - 💡 Bot will run until manually stopped
+2025-09-28 15:55:37,850 - INFO - ⏹️  Press Ctrl+C to stop the bot
+2025-09-28 15:55:37,853 - INFO - 🚀 Starting bot session #2
+2025-09-28 15:55:40,912 - INFO - ✅ Driver initialized successfully
+2025-09-28 15:55:40,953 - INFO - 🔐 Login attempt 1/3
+2025-09-28 15:55:53,505 - INFO - ✅ Email entered
+2025-09-28 15:55:55,784 - INFO - ✅ Password entered
+2025-09-28 15:55:57,974 - INFO - ✅ Login button clicked
+2025-09-28 15:56:08,096 - WARNING - ⚠️ Login verification failed
+2025-09-28 15:56:08,208 - INFO - ⏳ Waiting 10 seconds before retry...
+2025-09-28 15:56:18,211 - INFO - 🔐 Login attempt 2/3
+2025-09-28 15:56:37,264 - INFO - ✅ Already logged in
+2025-09-28 15:57:00,118 - INFO - ✅ Successfully navigated to marketplace
+2025-09-28 15:57:00,119 - INFO - 🔍 Looking for listings...
+2025-09-28 15:57:03,183 - INFO - 📊 Found 1 unique listings
+2025-09-28 15:57:03,197 - INFO - 🔄 Processing listing: https://www.facebook.com/marketplace/item/2268222606961144/
+2025-09-28 15:57:08,419 - INFO - ✅ Edit button clicked
+2025-09-28 15:57:21,647 - INFO - ✅ Listing processed successfully
+2025-09-28 15:57:23,649 - INFO - ✅ Session completed: 1/1 successful
+2025-09-28 15:57:26,850 - INFO - ✅ Driver closed
+2025-09-28 15:57:26,973 - INFO - ✅ Session completed successfully
+2025-09-28 16:00:07,003 - INFO - 🚀 Starting bot session #3
+2025-09-28 16:00:09,495 - INFO - ✅ Driver initialized successfully
+2025-09-28 16:00:09,496 - INFO - 🔐 Login attempt 1/3
+2025-09-28 16:00:19,950 - INFO - ✅ Email entered
+2025-09-28 16:00:22,128 - INFO - ✅ Password entered
+2025-09-28 16:00:24,270 - INFO - ✅ Login button clicked
+2025-09-28 16:00:35,639 - WARNING - ⚠️ Login verification failed
+2025-09-28 16:00:35,922 - INFO - ⏳ Waiting 10 seconds before retry...
+2025-09-28 16:00:45,926 - INFO - 🔐 Login attempt 2/3
+2025-09-28 16:01:05,219 - INFO - ✅ Already logged in
+2025-09-28 16:01:18,086 - INFO - ✅ Successfully navigated to marketplace
+2025-09-28 16:01:18,087 - INFO - 🔍 Looking for listings...
+2025-09-28 16:01:21,119 - INFO - 📊 Found 0 unique listings
+2025-09-28 16:01:21,120 - INFO - ℹ️ No listings found in this session
+2025-09-28 16:01:23,875 - INFO - ✅ Driver closed
+2025-09-28 16:01:24,018 - INFO - ✅ Session completed successfully
+2025-09-28 16:03:34,039 - INFO - 🚀 Starting bot session #4
+2025-09-28 16:03:36,071 - INFO - ✅ Driver initialized successfully
+2025-09-28 16:03:36,072 - INFO - 🔐 Login attempt 1/3
+2025-09-28 16:03:47,931 - INFO - ✅ Email entered
+2025-09-28 16:03:50,141 - INFO - ✅ Password entered
+2025-09-28 16:03:52,304 - INFO - ✅ Login button clicked
+2025-09-28 16:04:02,906 - WARNING - ⚠️ Login verification failed
+2025-09-28 16:04:03,161 - INFO - ⏳ Waiting 10 seconds before retry...
+2025-09-28 16:04:13,163 - INFO - 🔐 Login attempt 2/3
+2025-09-28 16:04:35,445 - INFO - ✅ Already logged in
+2025-09-28 16:04:52,965 - INFO - ✅ Successfully navigated to marketplace
+2025-09-28 16:04:52,966 - INFO - 🔍 Looking for listings...
+2025-09-28 16:04:56,013 - INFO - 📊 Found 0 unique listings
+2025-09-28 16:04:56,014 - INFO - ℹ️ No listings found in this session
+2025-09-28 16:04:59,112 - INFO - ✅ Driver closed
+2025-09-28 16:04:59,296 - INFO - ✅ Session completed successfully
+2025-09-28 16:05:02,740 - INFO - 🛑 Bot stop requested
+2025-09-28 16:05:02,741 - INFO - 🎯 Continuous bot stopped

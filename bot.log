@@ -1,0 +1,215 @@
+2025-09-28 13:11:55,891 - INFO - Database setup completed
+2025-09-28 13:11:58,105 - INFO - Driver initialized successfully
+2025-09-28 13:11:58,122 - INFO - Logging into Facebook...
+2025-09-28 13:12:13,981 - INFO - Login successful!
+2025-09-28 13:12:20,440 - INFO - Navigated to marketplace
+2025-09-28 13:12:20,445 - ERROR - Error getting listings: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=140.0.7339.208); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6de941eb5+80197]
+	GetHandleVerifier [0x0x7ff6de941f10+80288]
+	(No symbol) [0x0x7ff6de6c02fa]
+	(No symbol) [0x0x7ff6de6ac0a5]
+	(No symbol) [0x0x7ff6de6d144a]
+	(No symbol) [0x0x7ff6de747be6]
+	(No symbol) [0x0x7ff6de768132]
+	(No symbol) [0x0x7ff6de740153]
+	(No symbol) [0x0x7ff6de708b02]
+	(No symbol) [0x0x7ff6de7098d3]
+	GetHandleVerifier [0x0x7ff6debfe83d+2949837]
+	GetHandleVerifier [0x0x7ff6debf8c6a+2926330]
+	GetHandleVerifier [0x0x7ff6dec186c7+3055959]
+	GetHandleVerifier [0x0x7ff6de95cfee+191102]
+	GetHandleVerifier [0x0x7ff6de9650af+224063]
+	GetHandleVerifier [0x0x7ff6de94af64+117236]
+	GetHandleVerifier [0x0x7ff6de94b119+117673]
+	GetHandleVerifier [0x0x7ff6de9310a8+11064]
+	BaseThreadInitThunk [0x0x7ffcf1617374+20]
+	RtlUserThreadStart [0x0x7ffcf265cc91+33]
+
+2025-09-28 13:12:20,478 - INFO - No listings found
+2025-09-28 13:12:23,029 - INFO - Browser closed
+2025-09-28 14:01:12,472 - INFO - Database setup completed
+2025-09-28 14:01:12,473 - INFO - 🚀 Starting Facebook Marketplace Bot...
+2025-09-28 14:01:14,597 - INFO - ✅ Driver initialized successfully
+2025-09-28 14:01:14,598 - INFO - 🔐 Logging into Facebook...
+2025-09-28 14:01:30,577 - WARNING - ⚠️ Login status unclear
+2025-09-28 14:01:30,813 - INFO - ✅ Email entered
+2025-09-28 14:01:33,686 - INFO - ✅ Password entered
+2025-09-28 14:01:35,901 - INFO - ✅ Login button clicked
+2025-09-28 14:01:47,660 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/964ed27585187d7bad5ff22145d1782b
+2025-09-28 14:01:51,764 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002742CC80410>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/964ed27585187d7bad5ff22145d1782b
+2025-09-28 14:01:55,826 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002742CC80690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/964ed27585187d7bad5ff22145d1782b
+2025-09-28 14:01:59,911 - INFO - ✅ Browser closed properly
+2025-09-28 14:02:54,590 - INFO - Database setup completed
+2025-09-28 14:02:54,591 - INFO - 🚀 Starting Facebook Marketplace Bot...
+2025-09-28 14:02:56,787 - INFO - ✅ Driver initialized successfully
+2025-09-28 14:02:56,792 - INFO - 🔐 Logging into Facebook...
+2025-09-28 14:03:12,457 - WARNING - ⚠️ Login status unclear
+2025-09-28 14:03:12,706 - INFO - ✅ Email entered
+2025-09-28 14:03:14,976 - INFO - ✅ Password entered
+2025-09-28 14:03:17,139 - INFO - ✅ Login button clicked
+2025-09-28 14:03:30,250 - WARNING - ⚠️ Login status unclear
+2025-09-28 14:03:30,251 - ERROR - ❌ Login failed - could not verify success
+2025-09-28 14:03:30,251 - ERROR - ❌ Bot stopped - login failed
+2025-09-28 14:03:33,267 - INFO - ✅ Browser closed properly
+2025-09-28 14:20:11,572 - INFO - ✅ Database setup completed
+2025-09-28 14:20:15,658 - ERROR - PHP connection error: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /facebook_bot/api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B936186510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 14:20:22,355 - ERROR - PHP connection error: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /facebook_bot/api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B9361E8F50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 14:20:26,441 - ERROR - PHP connection error: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /facebook_bot/api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B9360EBE10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 14:20:47,440 - ERROR - PHP connection error: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /facebook_bot/api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B936200510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 14:20:51,539 - ERROR - PHP connection error: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /facebook_bot/api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B93613F2F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 14:21:15,987 - ERROR - PHP connection error: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /facebook_bot/api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B93611BAC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 14:21:20,055 - ERROR - PHP connection error: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /facebook_bot/api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B9361F86B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 14:21:24,137 - ERROR - PHP connection error: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /facebook_bot/api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B9361F8160>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 14:21:30,837 - ERROR - PHP connection error: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /facebook_bot/api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B93611B8A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-28 19:24:57,842 - INFO - ✅ Database setup completed
+2025-09-28 19:25:04,739 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022392A36510>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:25:26,503 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000223932A8E10>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:25:28,780 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000223932A96D0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:25:52,766 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000223932A9D10>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:25:55,057 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000223929CBC50>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:26:16,817 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000223929CB610>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:26:19,095 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000223929CBD90>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:26:21,380 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000223929CAE90>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:26:26,888 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000223929CB390>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:47:41,346 - INFO - ✅ Database setup completed
+2025-09-28 19:47:48,217 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B149246510>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:47:52,833 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B149AA8E10>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:47:55,115 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B149AA96D0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:48:20,832 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B149AA9D10>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:48:23,117 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1491DBC50>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:48:44,808 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1491DB610>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:48:47,091 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1491DBD90>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:48:49,446 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1491DAE90>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:48:51,716 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1491DB110>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:48:56,767 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B149AA8550>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:48:57,828 - INFO - ✅ Database setup completed
+2025-09-28 19:49:04,652 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026BE2346510>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:49:09,017 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026BE23D8E10>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:49:11,294 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026BE23D96D0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:49:34,614 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026BE23D9D10>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:49:36,878 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026BE22DBC50>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 19:49:52,478 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/dcb8100f00c5d5a4d246d0acee0edd43
+2025-09-28 19:49:56,560 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026BE22DB610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dcb8100f00c5d5a4d246d0acee0edd43
+2025-09-28 19:50:00,605 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026BE22DB4D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/dcb8100f00c5d5a4d246d0acee0edd43
+2025-09-28 19:50:11,477 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026BE22DB750>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:01:49,813 - INFO - ✅ Database setup completed
+2025-09-28 20:01:57,818 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A170F6660>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:02:02,511 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A17158F50>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:02:04,784 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A17159810>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:02:27,571 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A17159E50>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:02:29,835 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A17087D90>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:02:51,992 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A17087610>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:02:54,276 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A170879D0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:02:56,559 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A17087110>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:03:01,685 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A17087250>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:03:01,693 - INFO - ✅ Database setup completed
+2025-09-28 20:03:03,982 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A17159D10>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:03:13,511 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A17158F50>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:03:15,780 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A17158410>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:03:27,266 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026A17158A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/110081e03034add4f64463a10e45e510
+2025-09-28 20:03:31,363 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026A1715A710>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/110081e03034add4f64463a10e45e510
+2025-09-28 20:03:35,420 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026A1716C050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/110081e03034add4f64463a10e45e510
+2025-09-28 20:03:46,299 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026A1715A850>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:10:42,503 - INFO - ✅ Database setup completed
+2025-09-28 20:10:49,330 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000255508D6510>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:10:54,210 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025551148E10>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:10:56,472 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000255511496D0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:11:19,099 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025551149D10>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:11:21,385 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002555086BC50>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:11:44,064 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002555086B610>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:11:46,329 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002555086BD90>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:11:48,612 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002555086AE90>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:11:50,880 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002555086B110>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:11:55,744 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025551148550>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:11:57,124 - INFO - ✅ Database setup completed
+2025-09-28 20:12:03,990 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020AC4EF6510>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:12:09,571 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020AC4F58E10>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:12:11,843 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020AC4F596D0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:12:15,584 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/cd41ab618bc728d43127c7af65db3ea6
+2025-09-28 20:12:19,636 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020AC4F59A90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd41ab618bc728d43127c7af65db3ea6
+2025-09-28 20:12:23,667 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020AC4F59BD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cd41ab618bc728d43127c7af65db3ea6
+2025-09-28 20:12:34,517 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020AC4E8BC50>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:14:08,242 - INFO - ✅ Database setup completed
+2025-09-28 20:14:15,074 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020FAF302660>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:14:19,470 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020FAF3911D0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:14:21,731 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020FAF391A90>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:14:42,539 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020FAF3920D0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:14:44,826 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020FAF28EFD0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:15:06,918 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020FAF28FB10>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:15:09,177 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020FAF28F250>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:15:11,459 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020FAF28F750>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:15:13,737 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020FAF391E50>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:15:18,760 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000020FAF390910>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-28 20:15:20,653 - INFO - 🚀 Starting Facebook Bot with Enhanced Safety
+2025-09-28 20:15:22,636 - INFO - ✅ Driver initialized with enhanced anti-detection
+2025-09-28 20:15:22,637 - INFO - 🔐 Login attempt 1/3
+2025-09-28 20:15:25,390 - INFO - ✅ Cookies cleared
+2025-09-28 20:15:46,896 - WARNING - ❌ Login failed on attempt 1
+2025-09-28 20:15:46,897 - INFO - ⏳ Waiting 14.8 seconds before retry...
+2025-09-28 20:16:01,691 - INFO - 🔐 Login attempt 2/3
+2025-09-28 20:16:02,238 - INFO - ✅ Cookies cleared
+2025-09-28 20:16:23,436 - WARNING - ❌ Login failed on attempt 2
+2025-09-28 20:16:23,436 - INFO - ⏳ Waiting 12.3 seconds before retry...
+2025-09-28 20:16:35,738 - INFO - 🔐 Login attempt 3/3
+2025-09-28 20:16:36,417 - INFO - ✅ Cookies cleared
+2025-09-28 20:16:58,128 - WARNING - ❌ Login failed on attempt 3
+2025-09-28 20:16:58,129 - ERROR - ❌ Bot stopped - all login attempts failed
+2025-09-28 20:17:01,315 - INFO - ✅ Driver closed safely
+2025-09-29 06:38:18,067 - FacebookBot - INFO - 🚀 Starting Facebook Bot...
+2025-09-29 06:38:18,169 - FacebookBot - INFO - ✅ Database setup completed successfully
+2025-09-29 06:38:18,170 - FacebookBot - INFO - 🤖 Starting bot cycle 1/3
+2025-09-29 06:38:22,352 - FacebookBot - WARNING - ⚠️ PHP connection failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9B9A660>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-29 06:38:31,981 - FacebookBot - INFO - ✅ WebDriver initialized successfully
+2025-09-29 06:38:36,048 - FacebookBot - WARNING - ⚠️ PHP connection failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9BFCE10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-29 06:38:36,049 - FacebookBot - INFO - 🔄 Login attempt 1/3
+2025-09-29 06:38:40,099 - FacebookBot - WARNING - ⚠️ PHP connection failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9B03E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-29 06:39:05,439 - FacebookBot - WARNING - ⚠️ Login verification failed on attempt 1
+2025-09-29 06:39:05,441 - FacebookBot - INFO - ⏳ Retrying in 10 seconds...
+2025-09-29 06:39:15,443 - FacebookBot - INFO - 🔄 Login attempt 2/3
+2025-09-29 06:39:19,498 - FacebookBot - WARNING - ⚠️ PHP connection failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9C1C640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-29 06:39:43,785 - FacebookBot - WARNING - ⚠️ Login verification failed on attempt 2
+2025-09-29 06:39:43,788 - FacebookBot - INFO - ⏳ Retrying in 20 seconds...
+2025-09-29 06:40:03,789 - FacebookBot - INFO - 🔄 Login attempt 3/3
+2025-09-29 06:40:07,819 - FacebookBot - WARNING - ⚠️ PHP connection failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9B571D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-29 06:40:32,832 - FacebookBot - WARNING - ⚠️ Login verification failed on attempt 3
+2025-09-29 06:40:32,833 - FacebookBot - ERROR - ❌ All login attempts failed
+2025-09-29 06:40:36,905 - FacebookBot - WARNING - ⚠️ PHP connection failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9B33AC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-29 06:40:39,966 - FacebookBot - INFO - ✅ Bot cleanup completed
+2025-09-29 06:40:44,053 - FacebookBot - WARNING - ⚠️ PHP connection failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9C10270>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-29 06:40:44,055 - FacebookBot - WARNING - ⚠️ Bot cycle 1 failed, restarting...
+2025-09-29 06:40:44,056 - FacebookBot - INFO - ⏳ Restarting in 30 seconds...
+2025-09-29 06:41:14,058 - FacebookBot - INFO - 🤖 Starting bot cycle 2/3
+2025-09-29 06:41:18,127 - FacebookBot - WARNING - ⚠️ PHP connection failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9C109E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-29 06:41:20,450 - FacebookBot - INFO - ✅ WebDriver initialized successfully
+2025-09-29 06:41:24,526 - FacebookBot - WARNING - ⚠️ PHP connection failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9C10D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-29 06:41:24,528 - FacebookBot - INFO - 🔄 Login attempt 1/3
+2025-09-29 06:41:28,587 - FacebookBot - WARNING - ⚠️ PHP connection failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9C10F30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-29 06:41:35,115 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/7b3656537da83d4cd8c9975d499e0a7d
+2025-09-29 06:41:39,181 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9C11260>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7b3656537da83d4cd8c9975d499e0a7d
+2025-09-29 06:41:43,240 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9C11480>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7b3656537da83d4cd8c9975d499e0a7d
+2025-09-29 06:41:47,296 - FacebookBot - INFO - ✅ Bot cleanup completed
+2025-09-29 06:41:51,351 - FacebookBot - WARNING - ⚠️ PHP connection failed: HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api.php (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A9B9C119D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-09-29 06:41:51,352 - FacebookBot - INFO - ⏹️ Bot stopped by user
+2025-09-29 06:42:07,026 - INFO - ✅ Database setup completed
+2025-09-29 06:42:07,027 - INFO - 🔄 Starting bot cycle 1
+2025-09-29 06:42:13,932 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002858208E3C0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-29 06:42:18,148 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000285820F0CD0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-29 06:42:18,150 - INFO - ✅ WebDriver initialized successfully
+2025-09-29 06:42:20,431 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000285820F1590>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-29 06:42:36,470 - INFO - ✅ Cookies saved
+2025-09-29 06:42:43,294 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000285820F1BD0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-29 06:42:43,295 - INFO - ✅ Login successful
+2025-09-29 06:42:45,575 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002858201FB10>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-29 06:42:45,576 - INFO - 🔄 Starting listings processing
+2025-09-29 06:43:10,210 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002858201F4D0>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-29 06:43:10,213 - INFO - ✅ Found 0 listings
+2025-09-29 06:43:12,475 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002858201FC50>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-29 06:43:12,476 - WARNING - ⚠️ No listings found
+2025-09-29 06:43:12,476 - WARNING - ⚠️ No listings processed, refreshing...
+2025-09-29 06:43:36,634 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002858201ED50>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-29 06:43:36,636 - INFO - ✅ Found 0 listings
+2025-09-29 06:43:38,912 - ERROR - PHP connection error: HTTPSConnectionPool(host='facebook_bot', port=443): Max retries exceeded with url: /api.php (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002858201F250>: Failed to resolve 'facebook_bot' ([Errno 11001] getaddrinfo failed)"))
+2025-09-29 06:43:38,936 - INFO - 🔄 Starting listings processing

@@ -1,0 +1,56 @@
+2025-09-28 16:10:12,026 - INFO - 🎯 STARTING 24/7 AI FACEBOOK BOT
+2025-09-28 16:10:12,027 - INFO - 💡 Bot will run continuously until manually stopped
+2025-09-28 16:10:12,028 - INFO - ⏹️  Press Ctrl+C to stop the bot
+2025-09-28 16:10:12,031 - INFO - 🚀 Starting session #2
+2025-09-28 16:10:19,161 - INFO - ✅ Driver initialized successfully
+2025-09-28 16:10:19,162 - INFO - 🔐 Login attempt 1/3
+2025-09-28 16:10:33,728 - INFO - ✅ Email entered
+2025-09-28 16:10:36,922 - INFO - ✅ Password entered
+2025-09-28 16:10:39,082 - INFO - ✅ Login button clicked
+2025-09-28 16:10:49,177 - WARNING - ⚠️ Login verification failed
+2025-09-28 16:10:49,326 - INFO - ⏳ Waiting 15 seconds before retry...
+2025-09-28 16:11:04,328 - INFO - 🔐 Login attempt 2/3
+2025-09-28 16:11:21,690 - INFO - ✅ Already logged in
+2025-09-28 16:11:21,691 - INFO - 🛍️ Navigating to marketplace...
+2025-09-28 16:11:51,480 - INFO - ✅ Successfully reached marketplace
+2025-09-28 16:11:51,481 - INFO - 🔍 Looking for listings...
+2025-09-28 16:11:58,529 - INFO - 📊 Found 0 unique listings
+2025-09-28 16:11:58,530 - INFO - ℹ️ No listings found in this session
+2025-09-28 16:12:01,891 - INFO - ✅ Driver closed safely
+2025-09-28 16:12:02,059 - INFO - ✅ Session completed successfully
+2025-09-28 16:15:32,097 - INFO - 🚀 Starting session #3
+2025-09-28 16:15:34,317 - INFO - ✅ Driver initialized successfully
+2025-09-28 16:15:34,318 - INFO - 🔐 Login attempt 1/3
+2025-09-28 16:15:54,937 - INFO - ✅ Email entered
+2025-09-28 16:15:58,080 - INFO - ✅ Password entered
+2025-09-28 16:16:00,220 - INFO - ✅ Login button clicked
+2025-09-28 16:16:10,363 - WARNING - ⚠️ Login verification failed
+2025-09-28 16:16:10,491 - INFO - ⏳ Waiting 15 seconds before retry...
+2025-09-28 16:16:25,493 - INFO - 🔐 Login attempt 2/3
+2025-09-28 16:16:57,723 - INFO - ✅ Already logged in
+2025-09-28 16:16:57,724 - INFO - 🛍️ Navigating to marketplace...
+2025-09-28 16:17:23,463 - INFO - ✅ Successfully reached marketplace
+2025-09-28 16:17:23,465 - INFO - 🔍 Looking for listings...
+2025-09-28 16:17:30,555 - INFO - 📊 Found 0 unique listings
+2025-09-28 16:17:30,556 - INFO - ℹ️ No listings found in this session
+2025-09-28 16:17:33,557 - INFO - ✅ Driver closed safely
+2025-09-28 16:17:33,717 - INFO - ✅ Session completed successfully
+2025-09-28 16:21:03,752 - INFO - 🚀 Starting session #4
+2025-09-28 16:21:06,098 - INFO - ✅ Driver initialized successfully
+2025-09-28 16:21:06,099 - INFO - 🔐 Login attempt 1/3
+2025-09-28 16:21:24,255 - INFO - ✅ Email entered
+2025-09-28 16:21:27,458 - INFO - ✅ Password entered
+2025-09-28 16:21:29,605 - INFO - ✅ Login button clicked
+2025-09-28 16:21:40,482 - WARNING - ⚠️ Login verification failed
+2025-09-28 16:21:40,603 - INFO - ⏳ Waiting 15 seconds before retry...
+2025-09-28 16:21:55,605 - INFO - 🔐 Login attempt 2/3
+2025-09-28 16:22:14,534 - INFO - ✅ Already logged in
+2025-09-28 16:22:14,535 - INFO - 🛍️ Navigating to marketplace...
+2025-09-28 16:22:28,319 - INFO - ✅ Successfully reached marketplace
+2025-09-28 16:22:28,320 - INFO - 🔍 Looking for listings...
+2025-09-28 16:22:35,433 - INFO - 📊 Found 0 unique listings
+2025-09-28 16:22:35,434 - INFO - ℹ️ No listings found in this session
+2025-09-28 16:22:39,042 - INFO - ✅ Driver closed safely
+2025-09-28 16:22:39,218 - INFO - ✅ Session completed successfully
+2025-09-28 16:24:43,871 - INFO - 🛑 Bot stop requested
+2025-09-28 16:24:43,873 - INFO - 🎯 24/7 Bot stopped

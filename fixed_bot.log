@@ -1,0 +1,12 @@
+2025-09-28 17:05:24,400 - INFO - 🚀 Starting Facebook Bot
+2025-09-28 17:05:26,612 - INFO - ✅ Driver initialized successfully
+2025-09-28 17:05:26,613 - INFO - 🔐 Logging into Facebook...
+2025-09-28 17:05:51,385 - ERROR - ❌ Login failed
+2025-09-28 17:05:51,386 - ERROR - ❌ Bot stopped - login failed
+2025-09-28 17:05:54,682 - INFO - ✅ Driver closed
+2025-09-28 20:07:05,493 - INFO - 🚀 Starting Facebook Bot
+2025-09-28 20:07:07,914 - INFO - ✅ Driver initialized successfully
+2025-09-28 20:07:07,914 - INFO - 🔐 Logging into Facebook...
+2025-09-28 20:07:31,778 - ERROR - ❌ Login failed
+2025-09-28 20:07:31,780 - ERROR - ❌ Bot stopped - login failed
+2025-09-28 20:07:34,389 - INFO - ✅ Driver closed
